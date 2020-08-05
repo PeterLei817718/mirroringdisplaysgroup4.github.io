@@ -1,0 +1,246 @@
+@charset "utf-8";
+/* CSS Document */
+.top{
+    height: 58px;
+    background-color: #333333;
+}
+.box1{
+    background-color: #ebecec;
+    height: 940px;
+}
+.img2{
+    position: absolute;
+    top: 59px;
+}
+.box1-fr{
+    background: url(../images/pai-background\ 1.png) no-repeat;
+    height: 100%;
+    width: 49%;
+}
+.img3{
+    margin-top: 83px;
+    margin-left: 580px;
+}
+.box1-fr ul{
+    float: right;
+    margin-right: 105px;
+}
+.box1-fr li{
+    margin-top: 50px;
+    font-size: 20px;
+}
+.box1-fr li span{
+    font-family: "myfont4";
+    float: right;
+}
+.box1-fr>ul>li>p{
+    float: right;
+    font-family: "myfont3";
+}
+.box1-fr li:nth-child(1){
+    margin-top: 68px;
+}
+.box1-fr>p{
+    font-size: 20px;
+    font-family: "myfont2";
+    margin-left: 475px;
+   margin-top: 690px;
+}
+.fg{
+    height: 40px;
+}
+.box2{
+    height: 940px;
+    width: 100%;
+    background: url(../images/pai-background\ 2.png) no-repeat;
+}
+.box2 p{
+    margin-top: 105px;
+    line-height: 57px;
+    text-align: center;
+    font-family: "myfont5";
+    font-size: 30px;
+    color: #221815;
+}
+.box2 p span{
+    font-family: "myfont1";
+}
+
+.box3{
+    height: 940px;
+    background-color: #ebecec;
+    position: relative;
+}
+.box3>img{
+    width: 764px;
+    margin-top: 52px;
+}
+.box3-fex{
+    position: absolute;
+    top: 52px;
+    left: 0;
+    height: 816px;
+}
+.one{
+    height: 105px;
+    width: 423px;
+    background-color: #fff;
+    margin-left: 909px;
+    border: 10px solid #ebecec;
+}
+.one:hover{
+    background: url(../images/资源\ 32picture.png);
+}
+.two{
+    height: 105px;
+    width: 172px;
+    background-color: #fff;
+    margin-left: 1014px;
+    border: 10px solid #ebecec;
+    margin-top: -26px;
+}
+.two:hover{
+    background: url(../images/资源\ 31picture.png);
+}
+.three p{
+    float: left;
+    font-size: 14px;
+    font-family: "myfont6";
+    margin-left: 125px;
+    margin-top: -25px;
+    color: #a9a8a8;
+}
+.three p span{
+    font-family: "myfont1";
+}
+.three-box{
+    height: 105px;
+    width: 713px;
+    margin-left: 867px;
+    border: 1px solid #000000;
+    margin-top: -26px;
+    
+}
+.three-border{
+    height: 105px;
+    width: 270px;
+    border: 10px solid #000000;
+    background-color: #ebecec;
+}
+.three-border:hover{
+    background: url(../images/资源\ 30picture.png);
+    background-size: 100% 100%;
+}
+.four{
+    height: 105px;
+    width: 568px;
+    background-color: #fff;
+    margin-left: 964px;
+    border: 10px solid #ebecec;
+    margin-top: -34px;
+}
+.four:hover{
+    background: url(../images/资源\ 29picture.png);
+}
+.five{
+    height: 105px;
+    width: 423px;
+    background-color: #fff;
+    margin-left: 1014px;
+    border: 10px solid #ebecec;
+    margin-top: -25px;
+}
+.five:hover{
+    background: url(../images/资源\ 28picture.png);
+}
+.six p{
+    float: left;
+    font-size: 14px;
+    font-family: "myfont6";
+    margin-left: 202px;
+    margin-top: -5px;
+    color: #a9a8a8;
+}
+.six p span{
+    font-family: "myfont1";
+}
+.six-box{
+    height: 105px;
+    width: 714px;
+    margin-left: 944px;
+    border: 1px solid #000000;
+    margin-top: -26px;
+    
+}
+.six-border{
+    height: 105px;
+    width: 423px;
+    border: 10px solid #000000;
+    background-color: #ebecec;
+}
+.six-border:hover{
+    background: url(../images/资源\ 27picture.png);
+    background-size: 100% 100%;
+}
+.seven{
+    height: 114px;
+    width: 195px;
+    background-color: #fff;
+    margin-left: 1300px;
+    border: 7px solid #ebecec;
+    margin-top: -25px;
+}
+.seven:hover{
+    background: url(../images/资源\ 26picture.png);
+}
+.eight{
+    height: 105px;
+    width: 423px;
+    background-color: #fff;
+    margin-left: 1008px;
+    border: 10px solid #ebecec;
+    margin-top: -39px;
+}
+.eight:hover{
+    background: url(../images/资源\ 25picture.png);
+}
+.nine p{
+    float: left;
+    font-size: 14px;
+    font-family: "myfont6";
+    margin-left: 279px;
+    margin-top: 0px;
+    color: #a9a8a8;
+}
+.nine p span{
+    font-family: "myfont1";
+}
+.nine-box{
+    height: 105px;
+    width: 714px;
+    margin-left: 1028px;
+    border: 1px solid #000000;
+    margin-top: -26px;
+    
+}
+.nine-border{
+    height: 105px;
+    width: 423px;
+    border: 10px solid #000000;
+    background-color: #ebecec;
+    margin-left: 169px;
+}
+.nine-border:hover{
+    background: url(../images/资源\ 24picture.png);
+    background-size: 100% 100%;
+}
+.box4{
+    margin-left: 64px;
+    margin-top: 44px;
+}
+.box4-text a{
+    font-size: 25px;
+    color: #000000;
+    margin-right: 37px;
+    font-family: "myfont2";
+}
